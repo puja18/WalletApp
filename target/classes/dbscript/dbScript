@@ -1,0 +1,13 @@
+insert into transaction(transactionId,amount , description , status , transactionDate  , transactionType , customerId , fromAccountNo , toAccountNo )
+ values(2,1000 , 'NULL'        , 'NULL'   , '2018-07-26 09:30:51' , 'debit ' ,          1 ,             7 ,        NULL);
+ 
+ 
+ insert into transaction(transactionId,amount , description , status , transactionDate  , transactionType , customerId , fromAccountNo , toAccountNo )
+ values(3,700 , 'NULL'        , 'NULL'   , '2018-07-26 09:30:51' , 'debit ' ,          1 ,             7 ,        NULL);
+ 
+ 
+  insert into transaction(transactionId,amount , description , status , transactionDate  , transactionType , customerId , fromAccountNo , toAccountNo )
+ values(9,1000 , 'NULL'        , 'NULL'   , '2018-07-23 09:30:51' , 'debit ' ,          1 ,            12,        NULL);
+ 
+  insert into transaction(transactionId,amount , description , status , transactionDate  , transactionType , customerId , fromAccountNo , toAccountNo )
+ values(10,500 , 'NULL'        , 'NULL'   , '2018-06-23 09:30:51' , 'debit ' ,          1 ,            12,        NULL);

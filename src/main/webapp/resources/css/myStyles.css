@@ -1,0 +1,135 @@
+@charset "ISO-8859-1";
+
+#accSummary{
+	
+	margin: 10px 10px 10px 10px;
+	
+}
+.btn{
+	margin-top:40px;
+	width:100px;
+	background-color: black;
+	color:white;
+	font-weight: bold;
+	font-size: 12px;
+	padding: 7px 5px 7px 5px;
+	border: 1px solid white;
+}
+
+.label{
+	font-weight: bold;
+	font-size: 14px;
+	width:150px;
+}
+.accRow{
+	margin-bottom: 10px;
+		
+}
+#accCnt1{
+	width:900px;
+	background-color:silver;
+	
+}
+
+#accCnt{
+
+	background-color:silver;
+	margin: 10px 50px 50px 50px;
+}
+#greetUser{
+	margin-left: 700px;
+	font-weight: bold;
+	color: white;
+	font-size: 14px;
+	font-style: italic;
+	
+}
+#imgcnt{
+	float: left;
+}
+
+#mainCnt{
+	width:900px;
+	display: inline-block;
+}
+#bankCnt{
+	width:900px;
+	display: inline-block;
+	background-color: grey;
+}
+#menuCnt{
+	margin: 0px;
+	
+	float: left;
+	display: inline-block;
+}
+
+#menuCnt ul li a:link{
+	margin:0px;
+	text-decoration: none;
+	margin-left: 5px;
+}
+
+#menuCnt ul li{
+	margin: 0px;
+	text-decoration: none;
+	list-style: none;
+	border-bottom:1px solid;
+	border-bottom-color: white;
+}
+
+#menuCnt ul li{
+	width: 150px;
+	height: 20px;
+	background-color:black;
+	padding: 10px 10px 10px 10px;
+	
+}
+
+#menuCnt ul li a:link{
+	margin-top:50px;
+	color:white;
+}
+
+#menuCnt ul li a:active{
+	color:white;
+}
+
+#menuCnt ul li a:visited{
+	color:white;
+}
+h1{
+	color: red;
+}
+h2{
+	color:white;
+}
+#footer{
+	background-color: black;
+	color:white;
+	font-weight: bold;
+	font-style:italic;
+	font-size:12px;
+	padding: 10px 10px 10px 10px;
+	border-top: 1px solid;
+	border-top-color: white;
+}
+
+#content{
+	width: 800px;
+	background-color:silver;
+	display: block;
+	
+}
+#frm{
+	   overflow:hidden;
+	background-color:silver;
+	border:none;
+	margin: 0px;
+	display: inline-block;
+	width: 550px;
+	height: 350px;
+	margin-left: 10px;
+	margin-bottom: 10px;
+	
+}
